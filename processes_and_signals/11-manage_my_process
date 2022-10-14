@@ -1,4 +1,5 @@
-sh (init) script that manages 'manage_my_process'
+#!/usr/bin/env bash
+#Bash (init) script that manages 'manage_my_process'
 # Requirements:
 #	-When passing the argument 'start':
 #	     *Starts 'manage_my_process'
